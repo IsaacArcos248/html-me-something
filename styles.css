@@ -1,0 +1,17 @@
+head {
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+
+html {
+    background-color: burlywood;
+}
+
