@@ -1,17 +1,53 @@
-head {
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: auto;
-    height: auto;
-    color: blue;
+}
+
+.rick{
+    font-size: 20px;
+    color: red;
     text-align: center;
 }
 
+.sample {
+    size: 100px;
+}
 p {
     margin: 10px;
     padding: 10px;
     text-align: left;
+    font-size: 20px;
+}
+
+header {
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Papyrus",sans-serif;
+    color: blue;
+    font-style: bold;
 }
 
 html {
     background-color: burlywood;
 }
 
+.Myheader {
+    color: blue;
+    font-size: 70px;
+}
+
+article{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+#outro {
+    font-size: 35px;
+    color: indigo;
+    display: block;
+    text-align: left;
+}
